@@ -1,0 +1,5 @@
+.project
+.settings
+Referenced Packages/**
+*salesforce.schema*
+version.txt
